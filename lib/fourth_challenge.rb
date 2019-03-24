@@ -10,6 +10,7 @@ def fourth_challenge
           name: "Mercutio", age: "18", attitude: "hot-headed"
         }
       ]
+   }
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
@@ -19,7 +20,7 @@ def fourth_challenge
         :first_friend => {
         name: "Steven", age: "30", attitude: "confused"},
         :second_friend => {
-          name: "Nurse", age: "44", attitude: "worried"
+          name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
 }

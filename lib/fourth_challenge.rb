@@ -9,7 +9,7 @@ def fourth_challenge
         :second_friend => {
           name: "Mercutio", age: "18", attitude: "hot-headed"
         }
-      ]}
+      ]
    }
    }, 
    :capulet => {
